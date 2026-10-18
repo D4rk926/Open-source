@@ -19,8 +19,8 @@ This repository aims to share handy, lightweight, and practical open-source Pyth
 ### Automation & Utilities
 | Program | Description | Requirements | Download / Source |
 | :--- | :--- | :--- | :--- |
-| **[Flender]** | A blender rewrite with easy to learn controls, good for basic 3d images or game modeling. | Python 3.8+ | [GitHub](link-here) |
-| **[Pdfs]** | A small program to create silde shows with, you can also export .pdf and .pptx fast. | Python 3.8+ | [GitHub](link-here) |
+| **[Flender]** | A blender rewrite with easy to learn controls, good for basic 3d images or game modeling. | Python 3.8+ | [GitHub](https://github.com/D4rk926/Open-source/tree/main/Flender%20-%20Coming%20Soon) |
+| **[Pdfs]** | A small program to create silde shows with, you can also export .pdf and .pptx fast. | Python 3.8+ | [GitHub](https://github.com/D4rk926/Open-source/tree/main/Pdfs) |
 
 ---
 
