@@ -4,8 +4,6 @@
 
 A collection of useful, open-source Python programs.
 
-[Contributing](#-contributing) • [Guidelines](#-guidelines) • [License](#-license)
-
 </div>
 
 ---
