@@ -1,67 +1,46 @@
 <div align="center">
 
-# 🚀 Open Source Kincsesbánya
-*(Awesome Open Source Programs)*
+# 🐍 Awesome Python Scripts & Programs
 
-Nyílt forráskódú, hasznos és ingyenes szoftverek gyűjteménye egy helyen.
+A curated collection of useful, open-source Python programs that you can easily download and use.
 
-[Közreműködés](#-hogyan-tudsz-segíteni) • [Szabályzat](#-szabályzat) • [Licenc](#-licenc)
+[Contributing](#-contributing) • [Guidelines](#-guidelines) • [License](#-license)
 
 </div>
 
 ---
 
-## 📌 Mi ez a repó?
+## 📌 About
 
-Ennek a projektnek a célja, hogy összegyűjtse a legjobb, leghasznosabb és leginkább felhasználóbarát nyílt forráskódú programokat. Legyen szó produktivitásról, fejlesztői eszközökről, biztonságról vagy szórakozásról, itt megtalálod a gyöngyszemeket!
+This repository aims to collect handy, lightweight, and practical open-source Python programs. Whether you need automation tools, utility scripts, or small applications, you can find them here ready to download and run!
 
 ---
 
-## 📂 Programok listája
+## 📂 Programs List
 
-### 🛠️ Fejlesztői eszközök (Developer Tools)
-| Név | Leírás | Platform | Link |
+### 🤖 Automation & Utilities
+| Program | Description | Requirements | Download / Source |
 | :--- | :--- | :--- | :--- |
-| **[Projekt Neve]** | Rövid leírás arról, hogy mire való a program. | Windows, macOS, Linux | [GitHub](link-ide) |
-| **[Másik Projekt]** | Rövid leírás a programról. | Web, Cross-platform | [GitHub](link-ide) |
+| **[Project Name]** | Short description of what this Python script does. | Python 3.8+ | [GitHub](link-here) |
+| **[Another Project]** | Short description of the program. | Python 3.10+ | [GitHub](link-here) |
 
-### ⚡ Produktivitás & Szervezés
-| Név | Leírás | Platform | Link |
+### 🌐 Web Scraping & APIs
+| Program | Description | Requirements | Download / Source |
 | :--- | :--- | :--- | :--- |
-| **[Projekt Neve]** | Rövid leírás arról, hogy mire való a program. | Android, iOS, Web | [GitHub](link-ide) |
+| **[Project Name]** | Short description of what this script extracts or does. | Python 3.x, `requests` | [GitHub](link-here) |
 
-### 🔒 Biztonság & Adatvédelem
-| Név | Leírás | Platform | Link |
+### 🎮 Fun & Games
+| Program | Description | Requirements | Download / Source |
 | :--- | :--- | :--- | :--- |
-| **[Projekt Neve]** | Rövid leírás arról, hogy mire való a program. | Linux, Windows | [GitHub](link-ide) |
+| **[Project Name]** | Short description of the mini-game or fun script. | Python 3.x, `pygame` | [GitHub](link-here) |
 
 ---
 
-## 🤝 Hogyan tudsz segíteni? (Contributing)
+## 🚀 How to Use
 
-Örömmel fogadjuk újabb nagyszerű open source programok ajánlását! Ha van kedvenc projekted, amit szívesen látnál a listában:
-
-1. **Forkold** a repót.
-2. Hozz létre egy új ágat (`git checkout -b feature/UjProgram`).
-3. Add hozzá a programot a megfelelő kategóriához a `README.md`-ben.
-4. **Commitold** a változtatásokat (`git commit -m 'Add [Program Neve]'`).
-5. Pushold az ágat (`git push origin feature/UjProgram`).
-6. Nyiss egy **Pull Requestet**.
-
-Kérlek, győződj meg róla, hogy az ajánlott projekt **valóban nyílt forráskódú** és aktívan karbantartott!
-
----
-
-## 📜 Szabályzat
-
-Új elem hozzáadásakor kérjük, tartsd be az alábbiakat:
-* A programnak rendelkeznie kell nyilvános forráskóddal (pl. GitHub, GitLab, Codeberg).
-* Tartalmazzon egy rövid, de tartalmas leírást.
-* Legyen rendezve a megfelelő kategóriába (ha új kategória kell, nyugodtan jelezd).
-* ABC sorrendben tartjuk a listaelemeket.
-
----
-
-## 📄 Licenc
-
-Ez a projekt a [MIT licenc](LICENSE) alatt érhető el.
+1. Navigate to the program's folder or repository link.
+2. Download the `.py` file or clone the specific project.
+3. Make sure you have Python installed, along with any required dependencies (check the project's `README` or instructions).
+4. Run the program via your terminal:
+   ```bash
+   python program_name.py
